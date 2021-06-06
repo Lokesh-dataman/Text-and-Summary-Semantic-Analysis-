@@ -1,0 +1,8 @@
+This is a Semantic Similarity Analysis for a text paragraph and the summary for it. 
+We have used three models for finding out the semantic similarity ratio ( 0 to 1) betwwen the text and the summary.
+The three models used are- 
+
+1) Similarity using spaCy 
+2) Corpora Based Similarity
+3) Textual Similarity using Pytorch and SentenceTransformers
+
